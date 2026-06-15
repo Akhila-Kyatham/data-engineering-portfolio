@@ -1,2 +1,2 @@
 # data-engineering-portfolio
-Data Engineering Portfolio featuring ETL/ELT pipelines, Snowflake, Databricks, dbt, PySpark, Kafka, AWS, Azure, and real-world analytics projects.
+Data Engineering, Cloud Data Engineering & AI Data Platform projects built using Python, SQL, Snowflake, Databricks, dbt, Spark, Kafka, AWS, and Azure.
